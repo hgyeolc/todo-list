@@ -1,0 +1,38 @@
+header {
+  border: 1px solid red;
+  padding: 40px 0;
+  text-align: center;
+}
+header h1 {
+  font-size: 30px;
+}
+header p {
+  font-size: 20px;
+  line-height: 2;
+}
+main {
+  border: 1px solid darkgoldenrod;
+}
+article {
+  border: 1px solid green;
+  width: 300px;
+  height: 400px;
+  margin: 0 auto;
+  position: relative;
+}
+article h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+article ul {
+  border: 1px solid darkgray;
+}
+article ul li {
+  border: 1px solid firebrick;
+  width: 200px;
+  margin-bottom: 15px;
+}
+article input {
+  position: absolute;
+  bottom: 0;
+}
